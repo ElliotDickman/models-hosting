@@ -137,13 +137,6 @@
          "name" : "buffer-0-bufferview-vec4"
       }
    ],
-   "buffers" : [
-      {
-         "byteLength" : 84048,
-         "name" : "buffer-0",
-         "uri" : "NOVELO_TOMATO.bin"
-      }
-   ],
    "materials" : [
       {
          "alphaMode" : "OPAQUE",
